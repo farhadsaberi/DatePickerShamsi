@@ -1,1 +1,5 @@
-[{"outputType":{"type":"APK"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1},"path":"app-release.apk","properties":{"packageId":"com.hampradaz.tornoment","split":"","minSdkVersion":"15"}}]
+{
+  "url":"https://raw.githubusercontent.com/farhadsaberi/DatePickerShamsi/master/updateApp/app.apk",
+  "versionCode":2,
+  "updateMessage":"آپدیت جدید"
+}
